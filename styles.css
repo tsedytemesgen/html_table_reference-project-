@@ -1,0 +1,36 @@
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgba(52, 161, 161, 0.686);
+}
+body {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  background-color: rgb(241, 234, 234);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(24, 134, 142);
+  text-align: center;
+}
+
+table {
+  border: 2px solid rgb(204, 137, 50);
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: rgb(187, 195, 190);
+}
+
+td {
+  border-top: 1px solid rgb(50, 204, 142);
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
